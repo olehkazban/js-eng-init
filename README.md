@@ -1,4 +1,4 @@
-# JavaScript Engineer Initiation
+#Engineer Initiation
 
 JavaScript and other learning materials which help you to become software engineer
 
@@ -13,6 +13,9 @@ JavaScript and other learning materials which help you to become software engine
   1. [EcmaScript]
     1.[History. What's JavaScript? Code styles. JsHint]
     1.
+  1. [TDD. Organizing your Code. Refactoring]
+  2. [DOM. BOM. AJAX. JSON. Simple Web App]
+  3. [Evolve your Web App]
   2. [License](#License)
  
 
