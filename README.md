@@ -1,22 +1,40 @@
 #Software Engineer Initiation
 
-JavaScript and other learning materials which help you to become software engineer
-
+JavaScript and others learning materials which help you to become software engineer
 
 ## Table of Contents
 
-  1. [Bootcamp](#bootcamp)
-    1. [Learning Princiles. Basic groupware tools. Reporting]
-    2. [Groupware environemnt. Git/Github. Reporting through git]
-    4. [Learn development environemnt. Browser's Development Tools. NodeJs/NPM Environemnt. Hello world]
-    5. [Create Your Profile Page]
-  1. [EcmaScript]
-    1.[History. What's JavaScript? Code styles. JsHint]
-    1.
-  1. [TDD. Organizing your Code. Refactoring]
-  2. [DOM. BOM. AJAX. JSON. Simple Web App]
-  3. [Evolve your Web App]
-  2. [License](#License)
+### Part I
+1. [Bootcamp](/bootcamp) 
+  1. [Learning Princiles. Basic groupware tools. Reporting](bootcamp/learning.md)
+  1. [Groupware environemnt. Git/Github. Reporting through git](bootcamp)
+  1. [Setup/Learn Development environemnt](/bootcamp)
+    1. Choose your text editor
+    1. Browser's Development Tools 
+    1. NodeJs/NPM Environemnt
+    1. JsHint. Code Style (Naming Conventions)
+  1. [Online resources. Referencies. Courcies. Books. Blogs. CSS/HTML/JavaScript resources]
+  1. [Create Your Profile Page]
+1.  [JavaScript Syntax](/week-2)
+  1. [Intro. Structures. Statmemt]
+  1. [Functions]
+  1. [OOP]
+  1. 
+1.  [Organizing your Code. TDD. Refactoring](/week-3)
+  1. [Modules. Anonymus modules. CommonJS/AMD. NPM/RequireJS]
+  1. [TDD/BDD. Setup Environemnt]
+  1. [Write Tests ...]
+  1. [Refactoring. Refactoring]
+1.  [Browser. HTML. CSS. Responsive. Your Game](/week-4)
+  1. HTML/CSS. Responsive layout. Choose your game
+  1. Prototype your UI/UX. HTML+CSS only
+
+### Part II
+1. [Client/Server communication](/week-5)
+1. [ Structure of web app. REST API. Start/plan your app](/week-6)
+1. [Security and Performance of your app](/week-7)
+1. [Embedding part of your app. JavaScript API.](/week-8)
+1. [License](#License)
  
 
 
