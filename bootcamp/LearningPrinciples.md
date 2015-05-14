@@ -8,7 +8,6 @@ Let's start with next important topics
 1. [Time managment](#time-managment)
 1. [Daily Reportig](#daily-reporting)
 
-
 ## How to ask Questions
 
 >>Place a rubber duck on your monitor and describe your problems to it. There's something magical about stating your problems aloud that makes the solution more clear.
@@ -74,8 +73,6 @@ If after 10-15 mins no any `insight` then you can ask question your colleges.
 > Remeber, if question appears in your mind, then answer alread there, you just need to find it ...
 
 
-...
-
 ## Time managment
 
 1. All your working day ( N hours) should be prepared and stored at your repository
@@ -94,21 +91,24 @@ Mentor desides if you have to spend more time
 	* tasks with explicitly set highest priority where output is concrete result
 12. Try to work evenly. For example you have a task for 6 hour but delivery is in 3 days, it's ok to split for 2 hours per day. Work on few tasks simultaniously each day by combining complex and easy tasks
 13. Lear to effectively use timeframes for parforming small sub-tasks. For example
-* build of the project
-* execution of tests
-* docs/email
-* TODO 
+	* build of the project
+	* execution of tests
+	* docs/email
+	* TODO 
 14. If you **naturally** can't work on few tasks simultatiously, don't hesitate and inform your mentor
-
 15. There are 4 categories of tasks
-
-* urgent important
-* not urgent important
-* urgent and not important
-* not importatn and not urgent
-
-
+	* urgent important
+	* not urgent important
+	* urgent and not important
+	* not importatn and not urgent
+16. If you have done all urgent and important tasks for current iteration, take a look in future materials and try to prepare sketch plan for it, then go back for learned section and read additional materials like articles,books or bonus tasks.
 
 ## Daily Report
 
-...
+1. Trainees create their personal `daily plans` at the end of the day or in the morning and put them to their repository
+1. A plan includes a list of tasks to be done on the following day. 
+	* It is a good idea to mark higher priority tasks and put such tasks first. 
+	* The plan should include estimation of how much time will be spent on the task.
+1. Trainee should pay attention to individual plans provided by mentors. Tasks assigned by mentors have higher priority compared to the ordinary trainee program.
+1. Mentors should perform daily check of the trainee's plan and correct it if needed.
+1. At the end of the day trainees create `daily reports` (work logs). A report lists what have been done, how much time was spent, any issues related to the tasks. All blockers should be clearly marked as well.
