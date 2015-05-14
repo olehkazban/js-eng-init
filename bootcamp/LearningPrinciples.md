@@ -1,7 +1,7 @@
 #Learning/Communication Principles
 
 It's very important to setup communication 'protocol' between trainee and mentor
-Let's start with next important topocs
+Let's start with next important topics
 
 1. [How to Ask Questions](#how-to-ask-questions)
 1. [Painless meetings](http://egorfine.com/en/articles/painless-meetings/)
@@ -78,7 +78,36 @@ If after 10-15 mins no any `insight` then you can ask question your colleges.
 
 ## Time managment
 
-...
+1. All your working day ( N hours) should be prepared and stored at your repository
+2. During planing, please, take to accaunt recomendations from this article
+3. Don't spend more time on the task then it requires
+4. Always clarify time dedicated for the task
+5. Task has to be like "Do something in 5 hours" but not "Do something"
+6. If you spend more time then expected then inform your mentor
+7. Work on task before the first blocker. Once blocker appears inform your mentor as early as possible. If no any corrections/suggestions/instruction then switch to other task
+8. Acceptable to spend some extra time to eliminate blocker themself, let's say 10..30 mins.
+Mentor desides if you have to spend more time
+9. Write all complited actions and occured problems. It would be ground for increasing time limit for the task
+10. Try to complite as much tasks as possible
+11. Absence of time isn't a reason in cases like: "I was working on task A that's why haven't done task B". Exceptions are 
+	* dependent tasks, when incoplete A is a blocker for B. 
+	* tasks with explicitly set highest priority where output is concrete result
+12. Try to work evenly. For example you have a task for 6 hour but delivery is in 3 days, it's ok to split for 2 hours per day. Work on few tasks simultaniously each day by combining complex and easy tasks
+13. Lear to effectively use timeframes for parforming small sub-tasks. For example
+* build of the project
+* execution of tests
+* docs/email
+* TODO 
+14. If you **naturally** can't work on few tasks simultatiously, don't hesitate and inform your mentor
+
+15. There are 4 categories of tasks
+
+* urgent important
+* not urgent important
+* urgent and not important
+* not importatn and not urgent
+
+
 
 ## Daily Report
 
