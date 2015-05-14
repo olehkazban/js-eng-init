@@ -1,6 +1,6 @@
 #Learning/Communication Principles
 
-It's very important to setup communication 'protocol' between trainee and mentor
+It's very important to setup communication 'protocol' between trainee and mentor.
 Let's start with next important topics
 
 1. [How to Ask Questions](#how-to-ask-questions)
@@ -46,9 +46,9 @@ deep recourcive self-analyze
 
 This effect amound programmers called `Teaddy Bear Effect` or [`Rubber Duck`](http://c2.com/cgi/wiki?RubberDucking)
 
-You may remember when you are starting describ problem to someone but instead find solution whithout any output from your partner. 
+You may remember when you are starting describe problem to someone but instead find solution whithout any output from your partner. 
 
-Let's summarize to
+Let's summarize:
 
 ####Simple algorithm 
 
