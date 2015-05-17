@@ -43,7 +43,6 @@ JavaScript and others learning materials which help you to become software engin
  
 
 
-
 ## License
 
 (The MIT License)
