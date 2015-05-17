@@ -1,18 +1,22 @@
 #Software Engineer Initiation
 
-JavaScript and others learning materials which help you to become software engineer
+JavaScript and others learning materials which help you to become software engineer.
 
 ## Table of Contents
 
 ### Part I
-1. [Bootcamp](/bootcamp) 
-  1. [Learning Princiles. Basic groupware tools. Reporting](bootcamp/LearningPrinciples.md)
-  1. [Groupware environemnt. Git/Github. Reporting through git](bootcamp)
-  1. [Setup/Learn Development environemnt](/bootcamp)
-    1. Choose your text editor
-    1. Browser's Development Tools 
-    1. NodeJs/NPM Environemnt
-    1. JsHint. Code Style (Naming Conventions)
+
+1. [Bootcamp](/bootcamp/) 
+    1. [Learning Princiles](bootcamp/learning-principles.md)
+    1. [Tools for collaboration](bootcamp/tools-for-collaboration.md)
+        1. Basic groupware tools
+        1. Reporting through Github
+    1. [Start using Git. Reporting through git](bootcamp/StartUsingGit.md)
+    1. [Setup/Learn Development environemnt](/bootcamp)
+        1. Choose your text editor
+        1. Browser's Development Tools 
+        1. NodeJs/NPM Environemnt
+        1. JsHint. Code Style (Naming Conventions)
   1. [Online resources. Referencies. Courcies. Books. Blogs. CSS/HTML/JavaScript resources]
   1. [Create Your Profile Page]
 1.  [JavaScript Syntax](/week-2)
@@ -20,7 +24,7 @@ JavaScript and others learning materials which help you to become software engin
   1. [Functions]
   1. [OOP]
   1. 
-1.  [Organizing your Code. TDD. Refactoring](/week-3)
+1.  [Organizing of your code. TDD. Refactoring](/week-3)
   1. [Modules. Anonymus modules. CommonJS/AMD. NPM/RequireJS]
   1. [TDD/BDD. Setup Environemnt]
   1. [Write Tests ...]
@@ -30,6 +34,7 @@ JavaScript and others learning materials which help you to become software engin
   1. Prototype your UI/UX. HTML+CSS only
 
 ### Part II
+
 1. [Client/Server communication](/week-5)
 1. [ Structure of web app. REST API. Start/plan your app](/week-6)
 1. [Security and Performance of your app](/week-7)

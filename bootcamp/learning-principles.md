@@ -1,20 +1,31 @@
-#Learning/Communication Principles
+#Learning Principles
 
-It's very important to setup communication 'protocol' between trainee and mentor
-Let's start with next important topics
+**[<= Back](../README.md)**		*	*	*	**[Next =>](tools-for-collaboration.md)**
 
-1. [How to Ask Questions](#how-to-ask-questions)
-1. [Painless meetings](http://egorfine.com/en/articles/painless-meetings/)
-1. [Time managment](#time-managment)
-1. [Daily Reportig](#daily-reporting)
+It's very important to setup communication 'protocol' between trainees and mentor.
+
+## Table of Contents
+1. **Theory (~5h)** 
+		1. [How to Ask Questions](#how-to-ask-questions)
+		1. [Painless Meetings](http://egorfine.com/en/articles/painless-meetings/)
+		1. [Time Managment](#time-managment)
+		1. [Daily Plan and Worklog](#daily-plan-and-worklog)
+		1. [Rules for E-Mail](http://www.dtf.ru/blog/read.php?id=39418)
+1. **Practise (~3h)**
+		1. [Prepare Your Workbook Repository](#prepare-your-workbook-repository)
+		1. [Prepare Your Worklog and Daily Plan](#prepare-your-daily-plan)
+		1. [Send Changes to Mentor](#send-reports-to-mentor)
+1. **Additional Materials**
+		1. [Some Lecture about Time Managment](blablba)
+		1. [Markdown Syntax](blala)
+
 
 ## How to ask Questions
 
 >>Place a rubber duck on your monitor and describe your problems to it. There's something magical about stating your problems aloud that makes the solution more clear.
 
 I have a question and I'm writing it to someone... but not sending it. In the moment when
-you 'transfer' the question from your mind to some medium (paper, email, chart, [thinking out loud](http://c2.com/cgi/wiki?ThinkingOutLoud)) it turns on other parts of your brain and in next 5-10 minutes answer comes. Nine times out of ten. Amaizing thing is that you find solution **themself** and
-without spending time of **others**.
+you 'transfer' the question from your mind to some medium (paper, email, chart, [thinking out loud](http://c2.com/cgi/wiki?ThinkingOutLoud)) it turns on other parts of your brain and in next 5-10 minutes answer comes. Nine times out of ten. Amaizing thing is that you find solution **themself** and without spending time of **others**.
 
 Note that 
 
@@ -72,6 +83,7 @@ If after 10-15 mins no any `insight` then you can ask question your colleges.
 
 > Remeber, if question appears in your mind, then answer alread there, you just need to find it ...
 
+**[⬆ back to top](#table-of-contents)**
 
 ## Time managment
 
@@ -103,12 +115,34 @@ Mentor desides if you have to spend more time
 	* not importatn and not urgent
 16. If you have done all urgent and important tasks for current iteration, take a look in future materials and try to prepare sketch plan for it, then go back for learned section and read additional materials like articles,books or bonus tasks.
 
-## Daily Report
+**[⬆ back to top](#table-of-contents)**
 
-1. Trainees create their personal `daily plans` at the end of the day or in the morning and put them to their repository
+## Daily Plan and Worklog
+
+1. Trainees create their personal `daily plans` at the end of the day or in the morning and put them to their repository.
 1. A plan includes a list of tasks to be done on the following day. 
 	* It is a good idea to mark higher priority tasks and put such tasks first. 
 	* The plan should include estimation of how much time will be spent on the task.
 1. Trainee should pay attention to individual plans provided by mentors. Tasks assigned by mentors have higher priority compared to the ordinary trainee program.
 1. Mentors should perform daily check of the trainee's plan and correct it if needed.
-1. At the end of the day trainees create `daily reports` (work logs). A report lists what have been done, how much time was spent, any issues related to the tasks. All blockers should be clearly marked as well.
+1. At the end of the day trainees create `worklog` (daily report). A report lists what have been done, how much time was spent, any issues related to the tasks. All blockers should be clearly marked as well
+
+**[⬆ back to top](#table-of-contents)**
+
+## Prepare Your Workbook Repository
+
+Idea is that all reports and task would be stored in your Workbook Repository
+
+1. First of all you have to [create account](http://github.com) under github
+1. Clone `Workbook Repository` from [provided template](blbalbabllba),don't panic [it's simle](my-screencast-1)
+1. Provide your contact information in README.md, like in [this screencast](my-screen-cast-2)
+
+##### Bonus
+
+1. Learn a bit about [markdown syntax](link-to-markdown-cheatsheats)
+1. Use more markdown syntax features in your README.md
+
+
+**[⬆ back to top](#table-of-contents)**
+
+**[<= Back](../README.md)**		*	*	*	**[Next =>](tools-for-collaboration.md)**
