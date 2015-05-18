@@ -1,5 +1,6 @@
 #Learning Principles
 
+<<<<<<< HEAD:bootcamp/learning-principles.md
 **[<= Back](../README.md)**		*	*	*	**[Next =>](tools-for-collaboration.md)**
 
 It's very important to setup communication 'protocol' between trainees and mentor.
@@ -7,6 +8,10 @@ It's very important to setup communication 'protocol' between trainees and mento
 ## Table of Contents
 
 **Theory (~5h)**
+=======
+It's very important to setup communication 'protocol' between trainee and mentor.
+Let's start with next important topics
+>>>>>>> 360d7e8a72c9d9c80021e62c4fde165139d50220:bootcamp/LearningPrinciples.md
 
 1. [How to Ask Questions](#how-to-ask-questions)
 1. [Painless Meetings](http://egorfine.com/en/articles/painless-meetings/)
@@ -64,9 +69,9 @@ deep recourcive self-analyze
 
 This effect amound programmers called `Teaddy Bear Effect` or [`Rubber Duck`](http://c2.com/cgi/wiki?RubberDucking)
 
-You may remember when you are starting describ problem to someone but instead find solution whithout any output from your partner. 
+You may remember when you are starting describe problem to someone but instead find solution whithout any output from your partner. 
 
-Let's summarize to
+Let's summarize:
 
 ####Simple algorithm 
 
@@ -132,6 +137,7 @@ Mentor desides if you have to spend more time
 	* The plan should include estimation of how much time will be spent on the task.
 1. Trainee should pay attention to individual plans provided by mentors. Tasks assigned by mentors have higher priority compared to the ordinary trainee program.
 1. Mentors should perform daily check of the trainee's plan and correct it if needed.
+<<<<<<< HEAD:bootcamp/learning-principles.md
 1. At the end of the day trainees create `worklog` (daily report). A report lists what have been done, how much time was spent, any issues related to the tasks. All blockers should be clearly marked as well
 
 **[⬆ back to top](#table-of-contents)**
@@ -181,3 +187,6 @@ We would use `pull request' process to pull changes from trainee's workbook to o
 **[⬆ back to top](#table-of-contents)**
 
 **[<= Back](../README.md)**		*	*	*	**[Next =>](tools-for-collaboration.md)**
+=======
+1. At the end of the day trainees create `daily reports` (work logs). A report lists what have been done, how much time was spent, any issues related to the tasks. All blockers should be clearly marked as well.
+>>>>>>> 360d7e8a72c9d9c80021e62c4fde165139d50220:bootcamp/LearningPrinciples.md
