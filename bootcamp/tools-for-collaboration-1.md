@@ -28,11 +28,11 @@
 
 ##Join Course Chats
 
-Let's use [Gitter](#https://gitter.im)
+Let's use [Gitter](https://gitter.im)
 
 You have to jump in two chats:
 
->To join chat just clik on 'gitter' badge 
+>To join chat just click on 'gitter' badge 
 
 1. Your mentor's status repository, for day-to-day communication
 1. [Course reposiotry](https://github.com/brotherhood-of-javascript/js-eng-init), to improve learning programm
