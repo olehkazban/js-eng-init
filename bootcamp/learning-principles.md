@@ -1,6 +1,5 @@
 #Learning Principles
 
-<<<<<<< HEAD:bootcamp/learning-principles.md
 **[<= Back](../README.md)**		*	*	*	**[Next =>](tools-for-collaboration.md)**
 
 It's very important to setup communication 'protocol' between trainees and mentor.
@@ -8,16 +7,14 @@ It's very important to setup communication 'protocol' between trainees and mento
 ## Table of Contents
 
 **Theory (~5h)**
-=======
-It's very important to setup communication 'protocol' between trainee and mentor.
+
+It's very imp~ortant to setup communication 'protocol' between trainee and mentor.
 Let's start with next important topics
->>>>>>> 360d7e8a72c9d9c80021e62c4fde165139d50220:bootcamp/LearningPrinciples.md
 
 1. [How to Ask Questions](#how-to-ask-questions)
 1. [Painless Meetings](http://egorfine.com/en/articles/painless-meetings/)
 1. [Time Managment](#time-managment)
 1. [Daily Plan and Worklog](#daily-plan-and-worklog)
-1. [Hobistic Programming. Don't understand, start play with it.](???)
 
 **Practise (~3h)**
 
@@ -137,7 +134,6 @@ Mentor desides if you have to spend more time
 	* The plan should include estimation of how much time will be spent on the task.
 1. Trainee should pay attention to individual plans provided by mentors. Tasks assigned by mentors have higher priority compared to the ordinary trainee program.
 1. Mentors should perform daily check of the trainee's plan and correct it if needed.
-<<<<<<< HEAD:bootcamp/learning-principles.md
 1. At the end of the day trainees create `worklog` (daily report). A report lists what have been done, how much time was spent, any issues related to the tasks. All blockers should be clearly marked as well
 
 **[⬆ back to top](#table-of-contents)**
@@ -146,7 +142,7 @@ Mentor desides if you have to spend more time
 
 Idea is that all reports and task would be stored in your Workbook Repository
 
-1. First of all you have to [create account](http://github.com) under github
+1. First of all you have to [create account](https://github.com/join) under github
 1. Clone `Workbook Repository` from [provided template](blbalbabllba),don't panic [it's simle](my-screencast-1)
 1. Provide your contact information in README.md, like in [this screencast](my-screen-cast-2)
 1. Learn a bit about [markdown syntax](link-to-markdown-cheatsheats)
@@ -187,6 +183,3 @@ We would use `pull request' process to pull changes from trainee's workbook to o
 **[⬆ back to top](#table-of-contents)**
 
 **[<= Back](../README.md)**		*	*	*	**[Next =>](tools-for-collaboration.md)**
-=======
-1. At the end of the day trainees create `daily reports` (work logs). A report lists what have been done, how much time was spent, any issues related to the tasks. All blockers should be clearly marked as well.
->>>>>>> 360d7e8a72c9d9c80021e62c4fde165139d50220:bootcamp/LearningPrinciples.md
