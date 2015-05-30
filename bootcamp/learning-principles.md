@@ -1,6 +1,6 @@
 #Learning Principles
 
-**[<= Back](../README.md)**		*	*	*	**[Next =>](tools-for-collaboration.md)**
+**[<= Back](../README.md)**		*	*	*	**[Next =>](tools-for-collaboration-1.md)**
 
 It's very important to setup communication 'protocol' between trainees and mentor.
 
@@ -169,4 +169,4 @@ It's time to make your first worklog and daily plan
 
 **[⬆ back to top](#table-of-contents)**
 
-**[<= Back](../README.md)**		*	*	*	**[Next =>](tools-for-collaboration.md)**
+**[<= Back](../README.md)**		*	*	*	**[Next =>](tools-for-collaboration-1.md)**
