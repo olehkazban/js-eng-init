@@ -18,15 +18,13 @@ Let's start with next important topics
 
 **Practise (~3h)**
 
-1. [Prepare Your Workbook Repository](#prepare-your-workbook-repository)
+1. [Prepare Your Status Repository](#prepare-your-status-repository)
 1. [Prepare Worklog and Daily Plan](#prepare-worklog-and-daily-plan)
 1. [Send Your Work to Mentor](#send-your-work-to-mentor)
 
 **Additional Materials**
 
-1. [E-Mail](http://www.dtf.ru/blog/read.php?id=39418)
-1. [Some Lecture about Time Managment](blablba)
-1. [Markdown Syntax](blala)
+1. [How to write E-Mails (ru) ](http://www.dtf.ru/blog/read.php?id=39418)
 
 
 ## How to ask Questions
@@ -138,16 +136,13 @@ Mentor desides if you have to spend more time
 
 **[⬆ back to top](#table-of-contents)**
 
-## Prepare Your Workbook Repository
+## Prepare Your Status Repository
 
-Idea is that all reports and task would be stored in your Workbook Repository
+Idea is that all links to reports, tasks and projects would be stored in your status repository
 
 1. First of all you have to [create account](https://github.com/join) under github
-1. Find your mentor in forks for [js-eng-status](https://github.com/brotherhood-of-javascript/js-eng-status) 
-1. Clone [js-eng-status](),don't panic [it's simle](my-screencast-1)
-1. Add links to , like in [this screencast](my-screen-cast-2)
-1. Learn a bit about [markdown syntax](link-to-markdown-cheatsheats)
-1. Use more markdown syntax features in your README.md
+1. Find your mentor in forks for [js-eng-status](https://github.com/brotherhood-of-javascript/js-eng-status), clone mentor's repositoy and add link to your repo in README.md, don't panic [it's simple](http://screencast.com/t/sivkdBOaleuD)
+1. [Create pull request](http://screencast.com/t/tmhdoF3ejrh) to mentor repo with your change
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -155,31 +150,22 @@ Idea is that all reports and task would be stored in your Workbook Repository
 
 It's time to make your first worklog and daily plan
 
-> Make sure that you understand ['markdown syntax'](link-to-markdown-cheetsheats) used in the template
+> Make sure that you understand ['basic markdown syntax'](http://daringfireball.net/projects/markdown/basics)
 
 #####Worklog
 
-1. Find report/worklogs.md in **your** workbook
-1. Put there are what you have done by today, specify time which you spend on each task
-1. Commit changes to workbook
+1. Find 'report/worklogs.md' in **your** 'js-eng-status'
+1. Put there are what you have done by today, the [sample](https://github.com/brotherhood-of-javascript/js-eng-status/blob/master/report/worklogs.md) could help you
+1. Commit changes
+1. Send 'pull request' to mentor
 
 #####Daily Plan
 
-1. Find plan/daily.md in **your** workbook
+1. Find 'report/daily.md' in **your** 'js-eng-status'
 1. Put there are tasks which wasn't done by today
-1. Take a look in future material and put tasks which you are going to work tomorrow
-1. Commit changes to workbook
-
-**[⬆ back to top](#table-of-contents)**
-
-## Send Your Work to Mentor
-
-We would use `pull request' process to pull changes from trainee's workbook to original workbook repository. It would allow mentor to resive work from trainees in unified way. Also any change could be discussed directly in Github
-
-1. Each trainee have to [create new branch](link-to-screen-cast-3) in **their** workbook
-	* name of the branch should be *'<your-github-nick\>-workbook'*
-	* for example: trainee Joe with github nick joe134 has to create branch with name `joe134-workbook`
-1. [Push that branch](link-to-screencast-4) from your workbook repository to `origin` (original reposiotry)
+1. Take a look in future material and put tasks which you are going to work on tomorrow
+1. Commit changes 
+1. Send 'pull request' to mentor
 
 **[⬆ back to top](#table-of-contents)**
 
