@@ -143,8 +143,9 @@ Mentor desides if you have to spend more time
 Idea is that all reports and task would be stored in your Workbook Repository
 
 1. First of all you have to [create account](https://github.com/join) under github
-1. Clone `Workbook Repository` from [provided template](blbalbabllba),don't panic [it's simle](my-screencast-1)
-1. Provide your contact information in README.md, like in [this screencast](my-screen-cast-2)
+1. Find your mentor in forks for [js-eng-status](https://github.com/brotherhood-of-javascript/js-eng-status) 
+1. Clone [js-eng-status](),don't panic [it's simle](my-screencast-1)
+1. Add links to , like in [this screencast](my-screen-cast-2)
 1. Learn a bit about [markdown syntax](link-to-markdown-cheatsheats)
 1. Use more markdown syntax features in your README.md
 
