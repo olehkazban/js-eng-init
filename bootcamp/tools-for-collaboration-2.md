@@ -1,6 +1,6 @@
 #Tools for collaboration 2
 
-**[<= Back](tools-for-collaboration.md)**		*	*	*	**[Next =>](tools-for-development.md)**
+**[<= Back](tools-for-collaboration-1.md)**		*	*	*	**[Next =>](tools-for-development.md)**
 
 Let's continue to learn tools for collaboration 
 
