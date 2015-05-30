@@ -10,10 +10,8 @@ JavaScript and others learning materials which help you to become software engin
 
 1. [Bootcamp](/bootcamp/) 
     1. [Learning Princiles](bootcamp/learning-principles.md)
-    1. [Tools for collaboration](bootcamp/tools-for-collaboration.md)
-        1. Basic groupware tools
-        1. Reporting through Github
-    1. [Start using Git. Reporting through git](bootcamp/StartUsingGit.md)
+    1. [Tools for collaboration 1](bootcamp/tools-for-collaboration-1.md)
+    1. [Tools for collaboration 2](bootcamp/tools-for-collaboration-2.md)
     1. [Setup/Learn Development environemnt](/bootcamp)
         1. Choose your text editor
         1. Browser's Development Tools 
