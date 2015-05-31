@@ -10,12 +10,13 @@ Let's continue to learn tools for collaboration
 
 1. Setup Jing 
 1. Setup TeamViewer 
-1. Improving Git skills, [Git Real 2](https://www.codeschool.com/courses/git-real-2)
 
 
 **Additional**
 
-1. [Mastering Git](https://www.codeschool.com/courses/mastering-github)
+1. [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+1. [Code School 'Git Path'](https://www.codeschool.com/paths/git), **not free** after level 1
+1. 
 
 
 1. Setup Git localy ???
