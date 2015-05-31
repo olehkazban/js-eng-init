@@ -1,6 +1,6 @@
 #Tools for collaboration 1
 
-**[<= Back](learning-principles.md)**		*	*	*	**[Next =>](tools-for-collaboartion-2.md)**
+**[<= Back](learning-principles.md)**		*	*	*	**[Next =>](tools-for-collaboration-2.md)**
 
 In that section we would consentrate on learning on 'How to use Git'.
 
@@ -69,4 +69,4 @@ As output you have to provide links to your repositories
 **[⬆ back to top](#tools-for-collaboration-1)**
 
 
-**[<= Back](learning-principles.md)**		*	*	*	**[Next =>](tools-for-collaboartion-2.md)**
+**[<= Back](learning-principles.md)**		*	*	*	**[Next =>](tools-for-collaboration-2.md)**
