@@ -2,7 +2,7 @@
 
 **[<= Back](learning-principles.md)**		*	*	*	**[Next =>](tools-for-collaboartion-2.md)**
 
-In that section we would consentrate on learning on 'How to use Git'.
+In that section we would concentrate on learning on 'How to use Git'.
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ You have to jump in two chats:
 >To join chat just click on 'gitter' badge 
 
 1. Your mentor's status repository, for day-to-day communication
-1. [Course reposiotry](https://github.com/brotherhood-of-javascript/js-eng-init), to improve learning programm
+1. [Course repository](https://github.com/brotherhood-of-javascript/js-eng-init), to improve learning program
 
 **[⬆ back to top](#tools-for-collaboration-1)**
 
@@ -44,7 +44,7 @@ In the start, just play a bit with git
 
 * [Try Git](https://try.github.io) 
 
-[Udacity](https://www.udacity.com) has not bad free cource to master git and github.
+[Udacity](https://www.udacity.com) has not bad free course to master git and github.
 Let's start here with first two lessons
 
 > Time: ~12h
@@ -54,7 +54,7 @@ Let's start here with first two lessons
 
 ##Share your work
 
-You have to do all tasks/quizes in cources above. 
+You have to do all tasks/quizzes in courses above. 
 As output you have to provide links to your repositories
 
 > Hint: Add links to your worklog
