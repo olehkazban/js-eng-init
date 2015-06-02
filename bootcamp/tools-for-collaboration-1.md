@@ -60,9 +60,12 @@ As output you have to provide links to your repositories
 > Hint: Add links to your worklog
 
 1. From Lesson 1 
-	* your new repository with 'lesson_1_reflection_promts.txt', 'file.txt', 'update.txt'
-	* forked 'asteroid' repository with your fixes
-	* forked 'pappu-pakia' repository with your fixes
+	* your new reflections repository with answers for lesson 1
+	* forked 'asteroid' repository with fixes
+	* forked 'pappu-pakia' repository with fixes
+1. From Lesson 2
+	* your reflections for lesson 2
+	* 'asteroid' repository with new features and commit history according to lesson 2
 
 
 
