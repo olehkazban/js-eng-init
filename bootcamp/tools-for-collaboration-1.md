@@ -1,8 +1,8 @@
 #Tools for collaboration 1
 
-**[<= Back](learning-principles.md)**		*	*	*	**[Next =>](tools-for-collaboartion-2.md)**
+**[<= Back](learning-principles.md)**		*	*	*	**[Next =>](tools-for-collaboration-2.md)**
 
-In that section we would consentrate on learning on 'How to use Git'.
+In that section we would concentrate on learning on 'How to use Git'.
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@ In that section we would consentrate on learning on 'How to use Git'.
 
 1. [Join Course Chats](#join-course-chats) 
 1. [Use Git and GitHub 1](#use-git-and-github-1)
-1. [Share your work](#share-your-work)
+1. [Output](#output)
 
 **Resources**
 
@@ -32,7 +32,7 @@ You have to jump in two chats:
 >To join chat just click on 'gitter' badge 
 
 1. Your mentor's status repository, for day-to-day communication
-1. [Course reposiotry](https://github.com/brotherhood-of-javascript/js-eng-init), to improve learning programm
+1. [Course repository](https://github.com/brotherhood-of-javascript/js-eng-init), to improve learning program
 
 **[⬆ back to top](#tools-for-collaboration-1)**
 
@@ -44,7 +44,7 @@ In the start, just play a bit with git
 
 * [Try Git](https://try.github.io) 
 
-[Udacity](https://www.udacity.com) has not bad free cource to master git and github.
+[Udacity](https://www.udacity.com) has not bad free course to master git and github.
 Let's start here with first two lessons
 
 > Time: ~12h
@@ -52,21 +52,23 @@ Let's start here with first two lessons
 1. [Lesson 1: Navigating a Commit History](https://www.udacity.com/course/viewer#!/c-ud775/l-2980038599/m-2960778925)
 1. [Lesson 2: Creating and Modifying a Repository](https://www.udacity.com/course/viewer#!/c-ud775/l-2969618657/m-2960548760)
 
-##Share your work
+##Output
 
-You have to do all tasks/quizes in cources above. 
-As output you have to provide links to your repositories
-
-> Hint: Add links to your worklog
+You have to do all tasks/quizzes in courses above. 
+Make sure that in the end of the day you have next stuff done
+on your local workstation
 
 1. From Lesson 1 
-	* your new repository with 'lesson_1_reflection_promts.txt', 'file.txt', 'update.txt'
-	* forked 'asteroid' repository with your fixes
-	* forked 'pappu-pakia' repository with your fixes
+	* your new reflections repository with answers for lesson 1
+	* cloned 'asteroid' repository with fixes
+	* cloned 'pappu-pakia' repository with fixes
+1. From Lesson 2
+	* your reflections for lesson 2
+	* 'asteroid' repository with new features and commit history according to lesson 2
 
 
 
 **[⬆ back to top](#tools-for-collaboration-1)**
 
 
-**[<= Back](learning-principles.md)**		*	*	*	**[Next =>](tools-for-collaboartion-2.md)**
+**[<= Back](learning-principles.md)**		*	*	*	**[Next =>](tools-for-collaboration-2.md)**
