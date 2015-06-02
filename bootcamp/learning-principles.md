@@ -20,7 +20,6 @@ Let's start with next important topics
 
 1. [Prepare Your Status Repository](#prepare-your-status-repository)
 1. [Prepare Worklog and Daily Plan](#prepare-worklog-and-daily-plan)
-1. [Send Your Work to Mentor](#send-your-work-to-mentor)
 
 **Additional Materials**
 
