@@ -154,16 +154,14 @@ It's time to make your first worklog and daily plan
 
 1. Find 'report/worklog.md' in **your** 'js-eng-status'
 1. Put there are what you have done by today, the [sample](https://github.com/brotherhood-of-javascript/js-eng-status/blob/master/report/worklogs.md) could help you
-1. Commit changes
-1. Send 'pull request' to mentor
+1. Commit changes in **your** repo
 
 #####Daily Plan
 
 1. Find 'report/daily.md' in **your** 'js-eng-status'
 1. Put there are tasks which wasn't done by today
 1. Take a look in future material and put tasks which you are going to work on tomorrow
-1. Commit changes 
-1. Send 'pull request' to mentor
+1. Commit changes in **your** repo
 
 **[⬆ back to top](#table-of-contents)**
 
