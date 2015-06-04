@@ -90,8 +90,9 @@ It's very important topic
 
 1. Read [Why coding style matter](http://www.smashingmagazine.com/2012/10/25/why-coding-style-matters)
 1. Install [jshint](http://jshint.com/install) globally
-1. Naming convention for this course [javascript](https://github.com/airbnb/javascript)
-1. Try to run **jshint** with settings from [javascript](https://github.com/airbnb/javascript)
+1. Naming convention for this course [Naming Convention](https://github.com/airbnb/javascript)
+1. Clone [Naming Convention](https://github.com/airbnb/javascript)
+1. Try to run **jshint** with settings from [Naming Convention](https://github.com/airbnb/javascript)
 
 >Hint: read jshint docs
 
