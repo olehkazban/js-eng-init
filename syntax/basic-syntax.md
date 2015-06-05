@@ -1,4 +1,4 @@
-#Tools for development
+#Basic Syntax
 
 **[<= Back](../bootcamp/tools-for-development.md)**		*	*	*	**[Next =>](functions-and-structures.md)**
 
