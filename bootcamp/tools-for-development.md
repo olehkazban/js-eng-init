@@ -1,6 +1,6 @@
 #Tools for development
 
-**[<= Back](tools-for-collaboration-1.md)**		*	*	*	**[Next =>](javascript-syntax.md)**
+**[<= Back](tools-for-collaboration-1.md)**		*	*	*	**[Next =>](../syntax/basic-syntax.md)**
 
 Now, let's start to move closer to Development tool set, we wouldn't cover all
 but let's start with main stack. 

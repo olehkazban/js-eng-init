@@ -13,10 +13,12 @@ JavaScript and others learning materials which help you to become software engin
     1. [Tools for collaboration 1](bootcamp/tools-for-collaboration-1.md)
     1. [Tools for collaboration 2](bootcamp/tools-for-collaboration-2.md)
     1. [Tools for development](/bootcamp/tools-for-development.md)
-1.  [JavaScript Syntax](/week-2)
-  1. [Intro. Structures. Statement]
-  1. [Functions]
-  1. [OOP]
+1.  [JavaScript Syntax](/syntax)
+  1. [Basic Syntax](syntax/basic-syntax.md)
+  1. Functions
+  1. OOP
+  1. High Order Functions
+  1. Project: The Secret Life of Objects
 1.  [Organizing of your code. TDD. Refactoring](/week-3)
   1. [Modules. Anonymous modules. CommonJS/AMD. NPM/RequireJS]
   1. [TDD/BDD. Setup Environment]
