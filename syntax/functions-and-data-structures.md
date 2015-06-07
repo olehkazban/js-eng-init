@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-> Time: (~8h)
+> Time: (~10h)
 
 **'Theory'**
 
@@ -21,6 +21,7 @@
 	* Reversing and array
 	* A list
 	* Deep comparison
+1. Share through GitHub
 
 >Don't forget about 'Naming Conventions'
 
