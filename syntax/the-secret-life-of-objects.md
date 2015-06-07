@@ -4,20 +4,15 @@
 
 ## Table of Contents
 
-> Time: (~12h)
+> Time: (~6h)
 
 **'Theory'**
 
-1. [High-order Functions](http://eloquentjavascript.net/05_higher_order.html)
 1. [The Secret Life of Objects](http://eloquentjavascript.net/06_object.html)
 
 **Practice**
 
 1. Write your own implementation
-	* Flattering
-	* Mother-child age difference 
-	* Historical life expectancy
-	* Every and then some
 	* A Vector Type
 	* Another cell
 	* Sequence interface

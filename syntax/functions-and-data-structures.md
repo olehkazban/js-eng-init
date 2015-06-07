@@ -1,6 +1,6 @@
 #Functions and Data Structures
 
-**[<= Back](basic-syntax.md)**		*	*	*	**[Next =>](high-order-func-and-life-of-objects.md)**
+**[<= Back](basic-syntax.md)**		*	*	*	**[Next =>](high-order-functions.md)**
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@
 
 **[⬆ back to top](#table-of-contents)**
 
-**[<= Back](basic-syntax.md)**		*	*	*	**[Next =>](high-order-func-and-life-of-objects.md)**
+**[<= Back](basic-syntax.md)**		*	*	*	**[Next =>](high-order-functions.md)**
 
 
 
