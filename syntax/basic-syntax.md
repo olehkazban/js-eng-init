@@ -1,6 +1,6 @@
-#Tools for development
+#Basic Syntax
 
-**[<= Back](../bootcamp/tools-for-development.md)**		*	*	*	**[Next =>](functions-and-structures.md)**
+**[<= Back](../bootcamp/tools-for-development.md)**		*	*	*	**[Next =>](functions-and-data-structures.md)**
 
 So, during bootcamp you have to work with javascript even without deep understanding
 it's parts. Right now it's time to start learn it in details.
