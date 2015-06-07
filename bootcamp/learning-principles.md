@@ -142,6 +142,8 @@ Idea is that all links to reports, tasks and projects would be stored in your st
 1. Find your mentor in forks for [js-eng-status](https://github.com/brotherhood-of-javascript/js-eng-status), clone mentor's repository and add link to your repo in README.md, don't panic [it's simple](http://screencast.com/t/sivkdBOaleuD)
 1. [Create pull request](http://screencast.com/t/tmhdoF3ejrh) to mentor repo with your change
 
+>Hint: I don't want **your** worklogs/plan changes in **my** status repo, push me only link to **your** repo
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Prepare Worklog and Daily Plan
