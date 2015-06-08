@@ -151,6 +151,7 @@ Idea is that all links to reports, tasks and projects would be stored in your st
 It's time to make your first worklog and daily plan
 
 > Make sure that you understand ['basic markdown syntax'](http://daringfireball.net/projects/markdown/basics)
+> Your last report date should be always on the top of the page
 
 #####Worklog
 
@@ -158,7 +159,6 @@ It's time to make your first worklog and daily plan
 1. Put there are what you have done by today, the [sample](https://github.com/brotherhood-of-javascript/js-eng-status/blob/master/report/worklogs.md) could help you
 1. Commit changes in **your** repo
 
-> Your last report date should be always on the top of the page
 
 #####Daily Plan
 
