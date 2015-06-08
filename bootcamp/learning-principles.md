@@ -158,6 +158,8 @@ It's time to make your first worklog and daily plan
 1. Put there are what you have done by today, the [sample](https://github.com/brotherhood-of-javascript/js-eng-status/blob/master/report/worklogs.md) could help you
 1. Commit changes in **your** repo
 
+> Your last report date should be always on the top of the page
+
 #####Daily Plan
 
 1. Find 'report/daily.md' in **your** 'js-eng-status'
