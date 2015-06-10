@@ -13,15 +13,19 @@ JavaScript and others learning materials which help you to become software engin
     1. [Tools for collaboration 1](bootcamp/tools-for-collaboration-1.md)
     1. [Tools for collaboration 2](bootcamp/tools-for-collaboration-2.md)
     1. [Tools for development](/bootcamp/tools-for-development.md)
-1.  [JavaScript Syntax 1](/syntax)
+1.  [JavaScript Syntax](/syntax)
   1. [Basic Syntax](syntax/basic-syntax.md)
   1. [Functions and Data Structures](syntax/functions-and-data-structure.md)
   1. [High-Order Functions](syntax/high-order-functions.md)
   1. [The Secret Life of Objects](syntax/the-secret-life-of-objects.md)
   1. [Project: Electronic Life](syntax/project-the-electronic-life.md)
-1.  [Organizing of your code. TDD. Refactoring](/week-3)
-  1. [Modules. Anonymous modules. CommonJS/AMD. NPM/RequireJS]
-  1. [TDD/BDD. Setup Environment]
+  1. [Error Handing. Regexp](syntax/)
+1. [Organizing and Testing your code](/syntax)
+  1. [Modules. Anonymous modules. CommonJS/AMD. NPM/RequireJS](aa)
+  1. [Project: A Programming Language](aaa)
+  1. [Testing. Setup Environment. TDD for Utility]
+  1. [Refactoring. Cover with test your projects]
+1.  [JavaScript and Browser](/week-3)
   1. [Write Tests ...]
   1. [Refactoring. Refactoring]
 1.  [Browser. HTML. CSS. Responsive. Your Game](/week-4)
