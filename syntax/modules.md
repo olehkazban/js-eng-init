@@ -30,12 +30,6 @@
 1. Organize modules in 'Electronic Life' with CommonJS but make it runs in a browser
 
 
-
 **[⬆ back to top](#table-of-contents)**
 
-**[<= Back](functions-and-data-structures.md)**		*	*	*	**[Next =>](project-the-electronic-life.md)**
-
-
-
-
-
+**[<= Back](functions-and-data-structures.md)**		*	*	*	**[Next =>](error-handing-regexp.md)**

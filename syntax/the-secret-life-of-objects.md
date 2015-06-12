@@ -1,6 +1,6 @@
-#High-Order Functions and The Secret Life of Objects
+#The Secret Life of Objects
 
-**[<= Back](functions-and-data-structures.md)**		*	*	*	**[Next =>](project-the-electronic-life.md)**
+**[<= Back](the-secret-life-of-objects.md.md)**		*	*	*	**[Next =>](error-handing-regexp.md)**
 
 ## Table of Contents
 
