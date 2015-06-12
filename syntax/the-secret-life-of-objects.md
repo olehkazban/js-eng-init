@@ -1,27 +1,35 @@
-#High-Order Functions and The Secret Life of Objects
+#Modules
 
-**[<= Back](functions-and-data-structures.md)**		*	*	*	**[Next =>](project-the-electronic-life.md)**
+**[<= Back](the-secret-life-of-objects.md.md)**		*	*	*	**[Next =>](error-handing-regexp.md)**
 
 ## Table of Contents
 
-> Time: (~6h)
+> Time: (~16h)
 
 **'Theory'**
 
-1. [The Secret Life of Objects](http://eloquentjavascript.net/06_object.html)
+1. [Modules](http://eloquentjavascript.net/06_object.html)
+1. [JavaScript Module Pattern: In-Depth](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
+1. [Why AMD](http://requirejs.org/docs/whyamd.html)
+1. [npm for all javascript](http://maxogden.com/node-packaged-modules.html)
 
 **Practice**
 
 1. Write your own implementation
-	* A Vector Type
-	* Another cell
-	* Sequence interface
+	* Month Names
+	* Separate your  'Electronic Life' project by modules (not AMD or CommonJS)
+	* Organize modules with CommonJS (runs only in node)
+	* Organize modules with RequireJS and AMD (runs in browser)
 1. Share through GitHub
+
+> Share your work in your electronic-life repo by separation in branches
 
 **Additional**
 
-1. [Understanding JavaScript Function Invocation and "this"](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
-1. [Prototypes and Inheritance in JavaScript](https://msdn.microsoft.com/en-us/magazine/ff852808.aspx)
+1. [Browserify](https://github.com/substack/node-browserify#browserify)
+1. Organize modules in 'Electronic Life' with CommonJS but make it runs in a browser
+
+
 
 **[⬆ back to top](#table-of-contents)**
 
