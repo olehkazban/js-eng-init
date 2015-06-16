@@ -21,10 +21,10 @@ JavaScript and others learning materials which help you to become software engin
   1. [Project: Electronic Life](syntax/project-the-electronic-life.md)
   1. [Error Handing. Regexp](syntax/error-handing-and-regexp.md)
 1. [Organizing and Testing your code](/syntax)
-  1. [Modules](syntax/modules.md)
-  1. [Project: A Programming Language](aaa)
-  1. [Testing. Setup Environment. TDD for Utility]
-  1. [Refactoring. Cover with test your projects]
+  1. [Modules](organize-code/modules.md)
+  1. [Unit Tests]((organize-code/unit-tests.md)
+  1. [Project: A Programming Language](organize-code/project-programming-lang.md)
+  1. [Refactoring]
 1.  [JavaScript and Browser](/week-3)
   1. [Write Tests ...]
   1. [Refactoring. Refactoring]
