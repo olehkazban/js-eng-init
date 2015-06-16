@@ -1,6 +1,6 @@
 #Project: The Electronic Life
 
-**[<= Back](high-order-func-and-life-of-objects.md)**		*	*	*	**[Next =>](error-handing.md)**
+**[<= Back](the-secret-life-of-objects.md)**		*	*	*	**[Next =>](modules.md)**
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@
 
 **[⬆ back to top](#table-of-contents)**
 
-**[<= Back](high-order-func-and-life-of-objects.md)**		*	*	*	**[Next =>](error-handing.md)**
+**[<= Back](the-secret-life-of-objects.md)**		*	*	*	**[Next =>](modules.md)**
 
 
 

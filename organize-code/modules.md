@@ -1,12 +1,12 @@
 #Modules
 
-**[<= Back](project-the-electronic-life.md)**		*	*	*	**[Next =>](error-handing-regexp.md)**
+**[<= Back](../syntax/project-the-electronic-life.md)**		*	*	*	**[Next =>](../syntax/error-handing-and-regexp.md)**
 
 ## Table of Contents
 
 > Time: (~16h)
 
-**'Theory'**
+**Theory**
 
 1. [Modules](http://eloquentjavascript.net/06_object.html)
 1. [JavaScript Module Pattern: In-Depth](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
@@ -24,7 +24,7 @@
 	* [Example: Simple one page app](https://github.com/volojs/create-template)
 1. Share through GitHub
 
->Hint: share your work in your electronic-life repo through branches
+>Hint: share your work in your electronic-life repo with branches
 
 **Additional**
 
@@ -34,4 +34,4 @@
 
 **[⬆ back to top](#table-of-contents)**
 
-**[<= Back](functions-and-data-structures.md)**		*	*	*	**[Next =>](error-handing-regexp.md)**
+**[<= Back](../syntax/project-the-electronic-life.md)**		*	*	*	**[Next =>](../syntax/error-handing-and-regexp.md)**

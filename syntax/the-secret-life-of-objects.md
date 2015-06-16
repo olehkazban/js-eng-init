@@ -1,6 +1,6 @@
 #The Secret Life of Objects
 
-**[<= Back](the-secret-life-of-objects.md.md)**		*	*	*	**[Next =>](error-handing-regexp.md)**
+**[<= Back](the-secret-life-of-objects.md)**		*	*	*	**[Next =>](project-the-elctronic-life.md)**
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@
 
 **[⬆ back to top](#table-of-contents)**
 
-**[<= Back](functions-and-data-structures.md)**		*	*	*	**[Next =>](project-the-electronic-life.md)**
+**[<= Back](the-secret-life-of-objects.md)**		*	*	*	**[Next =>](project-the-electronic-life.md)**
 
 
 
