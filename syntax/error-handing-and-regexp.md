@@ -1,6 +1,6 @@
 #Error Handing and Regexp
 
-**[<= Back](../organize-code/modules.md)**		*	*	*	**[Next =>](project-the-programm-language.md)**
+**[<= Back](project-the-electronic-life.md)**		*	*	*	**[Next =>](../organize-code/modules.md)**
 
 
 ## Table of Contents
@@ -32,7 +32,7 @@
 
 **[⬆ back to top](#table-of-contents)**
 
-**[<= Back](../organize-code/modules.md)**		*	*	*	**[Next =>](project-the-programm-language.md)**
+**[<= Back](project-the-electronic-life.md)**		*	*	*	**[Next =>](../organize-code/modules.md)**
 
 
 

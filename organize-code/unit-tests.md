@@ -19,13 +19,13 @@
 > Time: (~3h)
 
 1. Integrate unit test infrastructure into your electronic-life project
-	* template with test
+	* template project is [here](project)
+
 
 **Additional**
 
 1. [The Plight of Pinocchio: JavaScript's quest to become a real language](http://opensoul.org/2012/05/16/the-plight-of-pinocchio/)
 1. [Mark Trostler: **Testable JavaScript - Architecting Your Application for Testability**](https://www.youtube.com/watch?v=JjqKQ8ezwKQ) [45:35]
-
 
 
 **[⬆ back to top](#table-of-contents)**

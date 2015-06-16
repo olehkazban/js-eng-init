@@ -1,6 +1,6 @@
 #Project: The Electronic Life
 
-**[<= Back](the-secret-life-of-objects.md)**		*	*	*	**[Next =>](modules.md)**
+**[<= Back](the-secret-life-of-objects.md)**		*	*	*	**[Next =>](error-handing-and-regexp.md)**
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@
 
 **[⬆ back to top](#table-of-contents)**
 
-**[<= Back](the-secret-life-of-objects.md)**		*	*	*	**[Next =>](modules.md)**
+**[<= Back](the-secret-life-of-objects.md)**		*	*	*	**[Next =>](error-handing-and-regexp.md)**
 
 
 
