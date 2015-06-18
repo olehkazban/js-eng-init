@@ -6,7 +6,7 @@
 
 **Theory**
 
-> Time: (~1h)
+> Time: (~2h)
 
 1. [Entry Barriers to Development](#entry-barriers-to-development)
 1. [Casual Programming is the future](http://casualprogramer.blogspot.com/2012/02/casual-programming-is-future.html)
