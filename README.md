@@ -8,23 +8,25 @@ JavaScript and others learning materials which help you to become software engin
 
 ### Part I
 
-1. [Bootcamp](/bootcamp/) 
+1. [Bootcamp](bootcamp/) 
     1. [Learning Principles](bootcamp/learning-principles.md)
     1. [Tools for collaboration 1](bootcamp/tools-for-collaboration-1.md)
     1. [Tools for collaboration 2](bootcamp/tools-for-collaboration-2.md)
-    1. [Tools for development](/bootcamp/tools-for-development.md)
-1.  [JavaScript Syntax](/syntax)
-  1. [Basic Syntax](syntax/basic-syntax.md)
-  1. [Functions and Data Structures](syntax/functions-and-data-structure.md)
-  1. [High-Order Functions](syntax/high-order-functions.md)
-  1. [The Secret Life of Objects](syntax/the-secret-life-of-objects.md)
-  1. [Project: Electronic Life](syntax/project-the-electronic-life.md)
-  1. [Error Handing. Regexp](syntax/error-handing-and-regexp.md)
-1. [Organizing and Testing your code](/syntax)
-  1. [Modules](organize-code/modules.md)
-  1. [Unit Tests]((organize-code/unit-tests.md)
-  1. [Project: A Programming Language](organize-code/project-programming-lang.md)
-  1. [Refactoring]
+    1. [Tools for development](bootcamp/tools-for-development.md)
+    1. [Casual Programming](bootcamp/casual-programming.md)
+    1. [Code Style](bootcamp/code-style.md)
+1.  [JavaScript Syntax](syntax)
+    1. [Basic Syntax](syntax/basic-syntax.md)
+    1. [Functions and Data Structures](syntax/functions-and-data-structure.md)
+    1. [High-Order Functions](syntax/high-order-functions.md)
+    1. [The Secret Life of Objects](syntax/the-secret-life-of-objects.md)
+    1. [Project: Electronic Life](syntax/project-the-electronic-life.md)
+    1. [Error Handing. Regexp](syntax/error-handing-and-regexp.md)
+1. [Organizing and Testing your code](organize-code)
+    1. [Modules](organize-code/modules.md)
+    1. [Unit Tests]((organize-code/unit-tests.md)
+    1. [Project: A Programming Language](organize-code/project-programming-lang.md)
+    1. [Refactoring]
 1.  [JavaScript and Browser](/week-3)
   1. [Write Tests ...]
   1. [Refactoring. Refactoring]
