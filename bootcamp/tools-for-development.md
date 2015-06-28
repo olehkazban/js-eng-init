@@ -10,10 +10,8 @@ but let's start with main stack.
 > Time: (~6h)
 
 1. [Text Editor vs IDE](#text-editor-vs-ide)
-1. [Brief intro to JavaScript](#brief-intro-to-javascript)
 1. [Install NodeJS and NPM](#install-nodejs-and-npm)
 1. [Discover Developer Tools](#discover-developer-tools) 
-1. [Install JsHint](http://jshint.com/install/)
 
 
 **Additional**
