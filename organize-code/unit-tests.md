@@ -1,4 +1,4 @@
-#Unit Testing and TDD/BDD
+#Test Driven Development
 
 **[<= Back](../organize-code/modules.md)**		*	*	*	**[Next =>](project-programming-language.md)**
 
@@ -18,12 +18,15 @@
 
 > Time: (~3h)
 
-1. Integrate unit test infrastructure into your electronic-life project
-	* template project is [here](project)
+1. Write tests and implementation for [try-bdd-with-utils](https://github.com/brotherhood-of-javascript/try-bdd-with-utils)
+	* write you own implementation, don't use build-in functionality
+
+> You can run tests directly from your Editor, for example in [WebStrom](https://www.jetbrains.com/webstorm/help/running-mocha-unit-tests.html)
 
 
 **Additional**
 
+1. Integrate unit test infrastructure into your electronic-life project
 1. [The Plight of Pinocchio: JavaScript's quest to become a real language](http://opensoul.org/2012/05/16/the-plight-of-pinocchio/)
 1. [Mark Trostler: **Testable JavaScript - Architecting Your Application for Testability**](https://www.youtube.com/watch?v=JjqKQ8ezwKQ) [45:35]
 

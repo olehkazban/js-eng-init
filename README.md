@@ -20,13 +20,14 @@ JavaScript and others learning materials which help you to become software engin
     1. [High-Order Functions](syntax/high-order-functions.md)
     1. [The Secret Life of Objects](syntax/the-secret-life-of-objects.md)
     1. [Project: Electronic Life](syntax/project-the-electronic-life.md)
+    1. [Modules(without AMD/CommonJS)](organize-code/modules.md)
     1. [Error Handing. Regexp](syntax/error-handing-and-regexp.md)
     1. [Project: A Programming Language](organize-code/project-programming-lang.md)
 1. [Maintainable Code](organize-code)
     1. [Code Style and Naming conventions](bootcamp/code-style.md)
-    1. Refactoring
-    1. [Modules](organize-code/modules.md)
+    1. [Organize code](organize-code/modules.md)
     1. [Unit Tests](organize-code/unit-tests.md)
+    1. Refactoring
     1. Continuous Deliver
 1. [JavaScript and Browser](browser)
     1. [Document Object Model](browser/dom.md)
