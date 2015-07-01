@@ -1,10 +1,10 @@
 #Project: A Programming Language
 
-**[<= Back](../organize-code/unit-tests.md)**		*	*	*	**[Next =>](other.md)**
+**[<= Back](unit-tests.md)**		*	*	*	**[Next =>](other.md)**
 
 ## Table of Contents
 
-> Time: (~4h)
+> Time: (~2h)
 
 **Theory**
 
@@ -14,15 +14,11 @@
 
 > Time: (~4h)
 
-1. Write your own implementation of program evaluator
-	* use modules
-	* use tdd/bdd technique here   
-
+1. Write your own implementation
+1. Publish through GitHub   
 
 **Additional**
-
 ...
-
 
 **[⬆ back to top](#table-of-contents)**
 

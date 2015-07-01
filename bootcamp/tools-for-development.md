@@ -1,19 +1,17 @@
 #Tools for development
 
-**[<= Back](tools-for-collaboration-1.md)**		*	*	*	**[Next =>](../syntax/basic-syntax.md)**
+**[<= Back](tools-for-collaboration-2.md)**		*	*	*	**[Next =>](casual-programming.md)**
 
 Now, let's start to move closer to Development tool set, we wouldn't cover all
 but let's start with main stack. 
 
 ## Table of Contents
 
-> Time: (~16h)
+> Time: (~6h)
 
 1. [Text Editor vs IDE](#text-editor-vs-ide)
-1. [Brief intro to JavaScript](#brief-intro-to-javascript)
-1. [Use NodeJS and NPM](#use-nodejs-and-npm)
+1. [Install NodeJS and NPM](#install-nodejs-and-npm)
 1. [Discover Developer Tools](#discover-developer-tools) 
-1. [Naming Conventions](#naming-conventions)
 
 
 **Additional**
@@ -57,21 +55,9 @@ My opinion you should have to learn **three** because they solve different tasks
 
 **[⬆ back to top](#tools-for-development)**
 
-##Brief intro to JavaScript
+##Install NodeJS and NPM
 
- > If you see sample, try it with your hands, avoid passive reading
-
- Even cats can do this. [JavaScript for Cats](http://jsforcats.com/)
-
-**[⬆ back to top](#tools-for-development)**
-
-##NodeJS and NPM
-
-Let's make fun !!!
-
->Hint: Follow instructions step by step
-
-1. [Just start start javascripting](https://github.com/sethvincent/javascripting#javascripting)
+[Download and Install](https://nodejs.org/download/)
 
 **[⬆ back to top](#tools-for-development)**
 
@@ -84,22 +70,8 @@ Let's make fun !!!
 
 **[⬆ back to top](#tools-for-development)**
 
-##Naming Conventions
 
-It's very important topic 
-
-1. Read [Why coding style matter](http://www.smashingmagazine.com/2012/10/25/why-coding-style-matters)
-1. Install [jshint](http://jshint.com/install) globally
-1. Naming convention for this course [Naming Convention](https://github.com/airbnb/javascript)
-1. Clone [Naming Convention](https://github.com/airbnb/javascript)
-1. Try to run **jshint** with settings from [Naming Convention](https://github.com/airbnb/javascript)
-
->Hint: read jshint docs
-
-
-**[⬆ back to top](#tools-for-development)**
-
-**[<= Back](tools-for-collaboration-2.md)**		*	*	*	**[Next =>](javascript-syntax.md)**
+**[<= Back](tools-for-collaboration-2.md)**		*	*	*	**[Next =>](casual-programming.md)**
 
 
 

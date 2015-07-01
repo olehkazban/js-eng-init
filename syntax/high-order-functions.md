@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-> Time: (~6h)
+> Time: (~8h)
 
 **'Theory'**
 
@@ -18,6 +18,7 @@
 	* Historical life expectancy
 	* Every and then some
 1. Share through GitHub
+1. [Functional Programming  Workshop](https://github.com/timoxley/functional-javascript-workshop)
 
 **Additional**
 
