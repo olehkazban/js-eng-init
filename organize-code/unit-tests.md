@@ -13,6 +13,11 @@
 1. [BDD](http://dannorth.net/introducing-bdd/)
 1. [Writing Testable JavaScript](http://www.adequatelygood.com/Writing-Testable-JavaScript.html)
 1. [Make tests read like a book](http://www.uxebu.com/blog/2013/01/make-tests-read-like-a-book/)
+1.  [Mocking and stubbing](http://sinonjs.org/) 
+	* [Spies](http://sinonjs.org/docs/#spies)
+	* [Stubs](http://sinonjs.org/docs/#stubs)
+	* [Mocks](http://sinonjs.org/docs/#mocks)
+	* [Fake timers](http://sinonjs.org/docs/#clock)
 
 **Practice**
 

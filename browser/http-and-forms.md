@@ -8,6 +8,7 @@
 
 1. [HTTP](http://eloquentjavascript.net/17_http.html)
 1. [Forms and Form Fields](http://eloquentjavascript.net/18_forms.html)
+1. [Sinon Fake Server](http://sinonjs.org/docs/#server) 
 
 **Practice**
 
@@ -19,6 +20,9 @@
 	* A JavaScript workbench
 	* Autocompletion
 	* Conway’s Game of Life
+
+1. TODO: Write your XHR warper with FAKE server mock
+	* form as a separate project 
 1. Publish through Github
 
 **Additional**
